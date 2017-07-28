@@ -1,0 +1,9 @@
+C:\source\BusinessRulesApp\BusinessRulesApp\bin\Debug\netcoreapp1.1\BusinessRulesApp.deps.json
+C:\source\BusinessRulesApp\BusinessRulesApp\bin\Debug\netcoreapp1.1\BusinessRulesApp.runtimeconfig.json
+C:\source\BusinessRulesApp\BusinessRulesApp\bin\Debug\netcoreapp1.1\BusinessRulesApp.runtimeconfig.dev.json
+C:\source\BusinessRulesApp\BusinessRulesApp\bin\Debug\netcoreapp1.1\BusinessRulesApp.dll
+C:\source\BusinessRulesApp\BusinessRulesApp\obj\Debug\netcoreapp1.1\BusinessRulesApp.csprojResolveAssemblyReference.cache
+C:\source\BusinessRulesApp\BusinessRulesApp\obj\Debug\netcoreapp1.1\BusinessRulesApp.AssemblyInfo.cs
+C:\source\BusinessRulesApp\BusinessRulesApp\bin\Debug\netcoreapp1.1\BusinessRulesApp.pdb
+C:\source\BusinessRulesApp\BusinessRulesApp\obj\Debug\netcoreapp1.1\BusinessRulesApp.dll
+C:\source\BusinessRulesApp\BusinessRulesApp\obj\Debug\netcoreapp1.1\BusinessRulesApp.pdb

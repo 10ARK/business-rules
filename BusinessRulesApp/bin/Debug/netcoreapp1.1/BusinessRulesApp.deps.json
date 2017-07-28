@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "bf08c390be49fb8f33792acb9941a1fe2d2aa618"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "businessrulesapp/1.0.0": {
+        "dependencies": {
+          "NRules": "0.7.0"
+        },
+        "runtime": {
+          "BusinessRulesApp.dll": {}
+        }
+      },
+      "nrules/0.7.0": {
+        "dependencies": {
+          "NRules.Fluent": "0.7.0",
+          "NRules.Runtime": "0.7.0"
+        }
+      },
+      "nrules.fluent/0.7.0": {
+        "dependencies": {
+          "NRules.RuleModel": "0.7.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/NRules.Fluent.dll": {}
+        }
+      },
+      "nrules.rulemodel/0.7.0": {
+        "runtime": {
+          "lib/netstandard1.0/NRules.RuleModel.dll": {}
+        }
+      },
+      "nrules.runtime/0.7.0": {
+        "dependencies": {
+          "NRules.RuleModel": "0.7.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/NRules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "businessrulesapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nrules/0.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a2s3CzkzCVKLqjpEM+EEaObKb8CH8HVdSGapHeEM1HiMZZp3fyT8FxUEyO7sEj9l5599/ALWZe449wJEXvytzQ==",
+      "path": "nrules/0.7.0",
+      "hashPath": "nrules.0.7.0.nupkg.sha512"
+    },
+    "nrules.fluent/0.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yti588ITeIxWFQBtNfsW6G13U6Qkf+M07x2vMz5laLkrUgmqyvXyPdDLOGCK+XcTHr647z+M36tQXBtlsUYocw==",
+      "path": "nrules.fluent/0.7.0",
+      "hashPath": "nrules.fluent.0.7.0.nupkg.sha512"
+    },
+    "nrules.rulemodel/0.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hStqSbMQZgB+XLlhlSpatugHDyCIgpoX+bgU57JtEfxpyIxJ4lfpNtmnuE0hTgyxq4aRm6eZE+J0ivbpxE7VSg==",
+      "path": "nrules.rulemodel/0.7.0",
+      "hashPath": "nrules.rulemodel.0.7.0.nupkg.sha512"
+    },
+    "nrules.runtime/0.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zaih2K4iXC05YA52VrElXwZAFBfjV9w1wzfFUsakMdHCyfHY+ehfQnP1WDpTSbc5EGClsvsi1bG9xsj4qPyDqw==",
+      "path": "nrules.runtime/0.7.0",
+      "hashPath": "nrules.runtime.0.7.0.nupkg.sha512"
+    }
+  }
+}
